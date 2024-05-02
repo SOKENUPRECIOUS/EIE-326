@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fashion</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Fashion</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">Store</a></li>
+                <li><a href="portfolio.html">Payment</a></li>
+                <li><a href="topics.html">Lessons</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to Fashion world</h2>
+            <p>Go anywhere confidently!</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Fashion World</p>
+    </footer>
+</body>
+</html>
